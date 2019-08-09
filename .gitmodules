@@ -1,4 +1,3 @@
-
 [submodule "ApartmentFrameworkBackend/src/ApartmentProtobuff"]
 	path = ApartmentFrameworkBackend/src/ApartmentProtobuff
-	url = https://github.com/william-mttrnet/ApartmentProtobuff
+	url = git@github.com:william-mttrnet/ApartmentProtobuff.git
